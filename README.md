@@ -27,7 +27,7 @@ Our solution is to provide an all-in-one platform that enhances language learnin
 * 🔴 Demo : [Languito.ai](https://languito-ai.streamlit.app/)
 * 🎥 Video Demo : 
 * 🎥 Pitch Deck (video) : [Link](https://www.youtube.com/watch?v=whh51FjzBlo)
-* 📄 Pitch : 
+* 📄 Pitch : [Link](https://drive.google.com/file/d/1I0eP3mn7s8vPLR1jSQjHMyTL92T8jH5V/view)
 
 ## 👥 Team
 
