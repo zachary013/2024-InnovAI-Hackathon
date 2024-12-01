@@ -52,7 +52,7 @@ Languito.ai was founded by a passionate team of software engineering students fr
 ```bash
 # Clone the repository
 git clone https://github.com/Medamine-Bahassou/languito-ai.git
-cd languito-ai/app
+cd NINJA CODERS/app
 
 # Install dependencies
 pip install -r requirements.txt
